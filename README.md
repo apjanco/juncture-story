@@ -9,7 +9,7 @@
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
+<param ve-entity eid="Q15180"> <!-- Girl with a Pearl Earring painting -->
 <param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
@@ -22,11 +22,9 @@ Many people stop to consider the obvious, but what about the less contrite? How 
 
 # Basic usage
 
-## Image
+## Wikidata
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
+So I'm changing some of the values from [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page). If you lookup an entity, you can paste the id and add it to params.  Now Soviet Union, shoould have a popup. Right? [^1]
 <param ve-image 
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
@@ -49,4 +47,4 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: [Wikipedia: Soviet Union](https://en.wikipedia.org/wiki/Soviet_Union)
