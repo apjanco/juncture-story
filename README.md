@@ -23,6 +23,7 @@ Many people stop to consider the obvious, but what about the less contrite? How 
 # Basic usage
 
 Here's a buch of crap tha twill break this <hr/ > <element> {"hi': such 'baed json' } this is gonnna breeeak 
+oh really, how about some bad markdown  ![ hi ] (hhhhhhh)  < param bleep bleeep >
 ## Wikidata
 
 So I'm changing some of the values from [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page). If you lookup an entity, you can paste the id and add it to params.  Now Soviet Union, shoould have a popup. Right? [^1]
