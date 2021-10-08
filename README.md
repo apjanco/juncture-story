@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Early Soviet Periodicals"
+       title="An Esay on the Essay"
        author="Andy Janco"
        banner="https://iiif-cloud.princeton.edu/iiif/2/5e%2F23%2F0b%2F5e230b2cee4243809b22c96ee443d885%2Fintermediate_file/full/1200,1500/0/default.jpg" 
        layout="vertical">
@@ -18,7 +18,7 @@
 
 Many people stop to consider the obvious, but what about the less contrite? How might the word salad of the mind become an essay, how might an essay become a salad bar? Where would the herbariums of the intellect live witout? Why of the within? 
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       manifest="https://figgy.princeton.edu/concern/scanned_resources/7e4de14b-7a29-4315-8f70-6209acf21638/manifest?manifest=https://figgy.princeton.edu/concern/scanned_resources/7e4de14b-7a29-4315-8f70-6209acf21638/manifest">
 
 # Basic usage
 
@@ -31,7 +31,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://static.parade.com/wp-content/uploads/2019/11/salad-bar-FTR.jpg">
 
 ## Map
 
