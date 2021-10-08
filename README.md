@@ -20,7 +20,7 @@ Many people stop to consider the obvious, but what about the less contrite? How 
 <param ve-image 
        manifest="https://figgy.princeton.edu/concern/scanned_resources/7e4de14b-7a29-4315-8f70-6209acf21638/manifest?manifest=https://figgy.princeton.edu/concern/scanned_resources/7e4de14b-7a29-4315-8f70-6209acf21638/manifest">
 
-# Basic usage
+# Advanced Stuff 
 
 Here's a buch of crap tha twill break this <hr/ > <element> {"hi': such 'baed json' } this is gonnna breeeak 
 oh really, how about some bad markdown  ![ hi ] (hhhhhhh)  < param bleep bleeep >
