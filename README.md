@@ -33,9 +33,8 @@ So I'm changing some of the values from [Wikidata](https://www.wikidata.org/wiki
 
 ## Map
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+This is an island with a NASA base on it.  They were talking about in on start date on the radio.  Sounds like a cool place with a nice view of the stars. 
+<param ve-map center="Q46197" zoom="11" prefer-geojson>
 
 ## Multiple viewers
 
